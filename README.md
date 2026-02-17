@@ -1,41 +1,79 @@
-# PowerBITraffic
-In this project I explored a few datasets to gather some insights on traffic accidents in Belgium.
+# Power BI Traffic Analysis
 
-What can be found using my visualisations is
+## Overview
 
-first it looks at some general information about these traffic accidents:
-How have they progressed between 2017 and 2021 
+This project uses Power BI to analyse traffic accident data in Belgium, exploring patterns across time, geography, and road user types. The analysis combines multiple datasets including accident records (2017–2021), population statistics, and work-from-home survey data to uncover insights about road safety trends and contributing factors.
 
-<img width="953" height="598" alt="Screenshot 2026-02-17 162214" src="https://github.com/user-attachments/assets/62d8fb39-43dd-4112-a3b1-071043d017c5" />
+---
 
-How do their occurances fluctuate during the day and throughout the week
-Comparing population data Which Blegian provinces are least traffic safe
+## Preliminary Exploration
 
-<img width="955" height="599" alt="Screenshot 2026-02-17 162349" src="https://github.com/user-attachments/assets/8eeea0d3-17d9-4e22-9abb-1df41110f832" />
+The first section examines general patterns in traffic accidents: how have they progressed between 2017 and 2021?
 
-My main two points of interest are 
+<br>
 
-Where are vulnerable road users most at risk for being involved in traffic accident
-
-<img width="954" height="599" alt="Screenshot 2026-02-17 162435" src="https://github.com/user-attachments/assets/257779f4-903d-4432-8365-91be5e44f40d" />
-
-This is shown as a the ratio of such accidents compared to the total of number of accidents. 
-This shows a clear trend where rural areas are safer and urban less safe. 
-
-<img width="955" height="599" alt="Screenshot 2026-02-17 162554" src="https://github.com/user-attachments/assets/197c3065-841d-43f1-9a20-c54053e6b1ef" />
-
-additionaly it can be seen that during the covid-19 pandemic the proportion of vulnerable road users increased, while earlier seeing an decrease in overall accident likely due to restricted movement of motorised vihicles during that time.
-
-<img width="952" height="597" alt="Screenshot 2026-02-17 162705" src="https://github.com/user-attachments/assets/64829706-3d2d-4a42-bf4d-7914acd05f2d" />
-
-Lastly during this time an unseen increase in working from home occurred. realising that one can not simply look at any decrease in overall accidents 
-and attribute it to WFH since car movement was restricted, an alternative was to look at differences between provinces in the rates of workers WFH. This shows a noticable pattern showing fewer rates in provinces with higher WFH rates.
-
-<img width="953" height="597" alt="Screenshot 2026-02-17 162739" src="https://github.com/user-attachments/assets/70e144a2-ddfc-4df8-8d04-f493621e48ec" />
+<img width="937" height="598" alt="Screenshot 2026-02-17 184003" src="https://github.com/user-attachments/assets/9f5a1fb4-add7-453d-b433-6de2f45322fe" />
 
 
+---
+
+&nbsp;
+
+How do accident occurrences fluctuate during the day and throughout the week? And comparing with population data, which Belgian provinces are least traffic safe?
+
+<br>
+
+<img width="937" height="598" alt="Screenshot 2026-02-17 184027" src="https://github.com/user-attachments/assets/42165244-19f8-426f-8d71-dca2ba17ecd1" />
 
 
+---
+
+&nbsp;
+
+## Vulnerable Road Users
+
+Where are vulnerable road users (cyclists, pedestrians) most at risk of being involved in a traffic accident?
+
+<br>
+
+<img width="936" height="599" alt="Screenshot 2026-02-17 184054" src="https://github.com/user-attachments/assets/1f6fb8c5-9bd1-4b16-bff4-dd1492670c4f" />
 
 
+---
 
+&nbsp;
+
+This is shown as the ratio of such accidents compared to the total number of accidents. The data reveals a clear trend: rural areas are safer for vulnerable road users, while urban areas present higher risk.
+
+<br>
+
+<img width="938" height="600" alt="Screenshot 2026-02-17 184124" src="https://github.com/user-attachments/assets/84c94e12-e056-4466-a86f-d8be8ca77974" />
+
+
+---
+
+&nbsp;
+
+Additionally, during the COVID-19 pandemic the proportion of accidents involving vulnerable road users increased, despite an overall decrease in accidents — likely due to restricted movement of motorised vehicles during that time.
+
+<br>
+
+<img width="938" height="599" alt="Screenshot 2026-02-17 184152" src="https://github.com/user-attachments/assets/911fcd8f-4f33-4e22-9f86-48b681a8e901" />
+
+
+---
+
+&nbsp;
+
+## Work From Home Impact
+
+During the pandemic, an unprecedented increase in working from home occurred. Realising that one cannot simply attribute any decrease in overall accidents to WFH (since car movement was restricted anyway), an alternative approach was taken: comparing differences between provinces in both WFH rates and accident rates. This reveals a noticeable pattern — provinces with higher WFH rates show fewer accidents.
+
+<br>
+
+<img width="939" height="599" alt="Screenshot 2026-02-17 184219" src="https://github.com/user-attachments/assets/0d5d22c4-9ef0-4064-bd43-b57f45c72f65" />
+
+
+---
+
+&nbsp;
