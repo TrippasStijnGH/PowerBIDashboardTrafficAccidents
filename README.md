@@ -8,7 +8,7 @@ This project uses Power BI to analyse traffic accident data in Belgium, explorin
 
 ## Preliminary Exploration
 
-The first section examines general patterns in traffic accidents: how have they progressed between 2017 and 2021?
+The first section examines general patterns in traffic accidents: how have they progressed between 2017 and 2021
 
 <br>
 
