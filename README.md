@@ -19,7 +19,7 @@ The first section examines general patterns in traffic accidents: how have they 
 
 &nbsp;
 
-How do accident occurrences fluctuate during the day and throughout the week? And comparing with population data, which Belgian provinces are least traffic safe?
+How do accident occurrences fluctuate during the day and throughout the week?
 
 <br>
 
