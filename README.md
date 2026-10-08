@@ -36,17 +36,19 @@ Where are vulnerable road users (cyclists, pedestrians) most at risk of being in
 
 <br>
 
-<img width="936" height="599" alt="Screenshot 2026-02-17 184054" src="https://github.com/user-attachments/assets/1f6fb8c5-9bd1-4b16-bff4-dd1492670c4f" />
+The below slide shows the difference between which provinces have the most accidents in total (first graph), and which have the most accidents compared to their population (second graph). Only the second graph tells us something interesting about which provinces are safest for vulnerable road users:
 
 <br>
 
-This slide shows the difference between which provinces have the most accidents in total (first graph), and which have the most accidents compared to their population (second graph). Only the second graph tells us something interesting about which provinces are safest for vulnerable road users.
+<img width="936" height="599" alt="Screenshot 2026-02-17 184054" src="https://github.com/user-attachments/assets/1f6fb8c5-9bd1-4b16-bff4-dd1492670c4f" />
+
+<br>
 
 ---
 
 &nbsp;
 
-
+The below slide shows the difference between urban and rural areas in their proportional number of accidents involving vulnerable road users:
 
 <br>
 
