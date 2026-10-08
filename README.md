@@ -8,7 +8,7 @@ This project uses Power BI to analyse traffic accident data in Belgium, explorin
 
 ## Preliminary Exploration
 
-The first section examines general patterns in traffic accidents: how have they progressed between 2017 and 2021
+The first section examines general patterns in traffic accidents: how have they progressed between 2017 and 2021:
 
 <br>
 
@@ -19,7 +19,7 @@ The first section examines general patterns in traffic accidents: how have they 
 
 &nbsp;
 
-How do accident occurrences fluctuate during the day and throughout the week?
+How do accident occurrences fluctuate during the day and throughout the week?:
 
 <br>
 
@@ -33,8 +33,6 @@ How do accident occurrences fluctuate during the day and throughout the week?
 ## Vulnerable Road Users
 
 Where are vulnerable road users (cyclists, pedestrians) most at risk of being involved in a traffic accident?
-
-<br>
 
 The below slide shows the difference between which provinces have the most accidents in total (first graph), and which have the most accidents compared to their population (second graph). Only the second graph tells us something interesting about which provinces are safest for vulnerable road users:
 
@@ -59,7 +57,7 @@ The below slide shows the difference between urban and rural areas in their prop
 
 &nbsp;
 
-Additionally, during the COVID-19 pandemic the proportion of accidents involving vulnerable road users increased, despite an overall decrease in accidents — likely due to restricted movement of motorised vehicles during that time.
+Additionally, the slide below shows that during the COVID-19 pandemic the proportion of accidents involving vulnerable road users increased, despite an overall decrease in accidents, likely due to restricted movement of motorised vehicles during that time:
 
 <br>
 
@@ -72,7 +70,7 @@ Additionally, during the COVID-19 pandemic the proportion of accidents involving
 
 ## Work From Home Impact
 
-During the pandemic, an unprecedented increase in working from home occurred. Realising that one cannot simply attribute any decrease in overall accidents to WFH (since car movement was restricted anyway), an alternative approach was taken: comparing differences between provinces in both WFH rates and accident rates. This reveals a noticeable pattern — provinces with higher WFH rates show fewer accidents.
+During the pandemic, an unprecedented increase in working from home occurred. Realising that one cannot simply attribute any decrease in overall accidents to WFH (since car movement was restricted anyway), an alternative approach was taken: comparing differences between provinces in both WFH rates and accident rates. This reveals a noticeable pattern, provinces with higher WFH rates show fewer accidents:
 
 <br>
 
